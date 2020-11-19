@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T13:41:50.370Z" agent="5.0 (X11)" etag="KQrTceLJfPEVNcZWGEjo" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T13:42:29.528Z" agent="5.0 (X11)" etag="Nwe_hox3DWZQV7lR_-NY" version="13.10.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,6 +266,9 @@
         </mxCell>
         <mxCell id="a07uq0I9f7022rg5gR0u-113" value="S:&lt;br&gt;&lt;pre style=&quot;margin-top: 0px ; margin-bottom: 0px ; margin-left: 0px ; margin-right: 0px ; text-indent: 0px&quot;&gt;&lt;span style=&quot;color: #61afef&quot;&gt;cikisGucuBilgisiSor&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;span style=&quot;color: #61afef&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #61afef&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="705.87" y="775" width="192.96" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="a07uq0I9f7022rg5gR0u-117" value="Komuta alma Sekansı Buradan Sonra Ortaktır. " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="805.86" y="730" width="300" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
